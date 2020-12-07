@@ -4,7 +4,7 @@
  * @author 光城
  * @version v1
  * @date 2019-07-20
- */
+ */ protect保证派生类可以直接使用基类的数据
 
 #include<iostream> 
 using namespace std; 
